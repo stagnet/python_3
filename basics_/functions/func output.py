@@ -1,0 +1,3 @@
+def mysum(a,b):
+    return 10+20
+print(mysum(10,20))# if the print() were indent with return than no output will show...
