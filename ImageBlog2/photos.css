@@ -1,17 +1,22 @@
 img {
 	width: 30%;
 	float: left;
-	/* margin: top right left bottom; */
+	/* margin: top right bottom left; */
 	margin: 1.66%;
 }
 
 p {
 	font-family: Raleway;
-	font-size: 50px;
+	font-size: 30px;
 	font-weight: 700;
 	text-transform: uppercase;
-	border-bottom: 5px solid rgba(231, 11, 121, 0.397);
+	border-bottom: 3px solid rgba(231, 11, 121, 0.179);
 	width: 30%;
 	padding-bottom: 20px;
 	margin: 1.66%;	
+}
+a:hover{
+    font-family: VT323, monospace;
+    font-weight: 100;
+    font-size: 1.1em; 
 }

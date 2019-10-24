@@ -1,0 +1,38 @@
+body{
+    border: 15px solid rgba(245, 233, 66, 0.521);
+    margin: 5% 15% 5% 15%;
+    padding: 10px 45px 10px 45px;
+}
+/* for all paragraphs */
+.content{
+    font-family: Modak,cursive;
+    font-size: 23px;
+    color: rgb(3, 19, 22);
+    border-bottom: 2px solid rgba(154, 158, 158, 0.299);
+    padding-bottom: 10px;
+}
+/* for h3 headings */
+h3{
+    font-family: VT323, monospace;
+    font-weight: 100;
+    font-size: 1.5em;
+    color: coral;
+    text-transform: uppercase;
+}
+/* for h1... */
+h1{
+    font-family: 'Scope One', serif;
+    font-size: 2.2em;
+    text-transform: capitalize;
+    
+}
+.first_p{
+    border-left: 6px solid rgba(224, 43, 43, 0.568);
+    padding-left: 10px;
+    
+}
+a:hover{
+    font-family: VT323, monospace;
+    font-weight: 100;
+    font-size: 1.2em; 
+}
