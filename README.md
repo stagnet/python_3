@@ -1,4 +1,6 @@
-# python_3
-From basic programs to real life applications all cook up using python3.
-# projects brief..
+## projects brief..
 Here are some of my application core scripts and web based apps.. 
+# Real_Projects 
+### [not tic-tac-toe rubbish ;) ]
+During the course of developing this project , i have learnt the concept of logic building & implementing the ideas 
+throughout coding and also improve my ability to understand whether the logics are feasible or not in which i am trying to put in every individual project.  
