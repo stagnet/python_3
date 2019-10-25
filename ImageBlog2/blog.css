@@ -6,7 +6,7 @@ body{
 /* for all paragraphs */
 .content{
     font-family: Modak,cursive;
-    font-size: 23px;
+    font-size: 1.3em;
     color: rgb(3, 19, 22);
     border-bottom: 2px solid rgba(154, 158, 158, 0.299);
     padding-bottom: 10px;
