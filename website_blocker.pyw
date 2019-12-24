@@ -13,7 +13,7 @@ while True:
             content = files.read()           #* create var _content_ that will read the entire _hosts_ file
             for website in websites:         
                 if website in content:       #* if iterables are present inside content(which is basically the hosts file)
-                    pass                     #* just pass the conditonal to else
+                    pass                     #* just pass the conditional to else
                 else:
                     files.write(redirect+"   "+website+ '\n' )
     else:
